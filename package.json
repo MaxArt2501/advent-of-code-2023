@@ -1,0 +1,23 @@
+{
+  "name": "advent-of-code-2023",
+  "version": "1.0.0",
+  "description": "I'm participating to the 2023 edition of [Advent of Code](http://adventofcode.com/2023/), a nice little puzzle game for developers. It consists in solving a couple of Christmas-related programming puzzles, and it doesn't matter what language you're choosing as long as you get the solution. I warmly suggest to give it a try yourself!",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxArt2501/advent-of-code-2023.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Massimo Artizzu",
+    "email": "maxart.x@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaxArt2501/advent-of-code-2023/issues"
+  },
+  "homepage": "https://github.com/MaxArt2501/advent-of-code-2023#readme"
+}
